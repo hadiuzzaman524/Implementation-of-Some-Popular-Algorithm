@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1562044379 source:e:\level-ll term-l\c++ basic, atik sir\pstfix conversion\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stack>
+

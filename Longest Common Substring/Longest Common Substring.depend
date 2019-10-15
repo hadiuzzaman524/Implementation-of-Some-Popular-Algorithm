@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565002357 source:e:\level-2 term-ii\algorithms\implementation of algorithm\longest common substring\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

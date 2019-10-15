@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564833307 source:e:\level-2 term-ii\algorithms\implementation of algorithm\oo\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

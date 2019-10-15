@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563981299 source:c:\users\asus\desktop\baust contest\bicoloring graph\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564062976 source:e:\level-2 term-ii\algorithms\implementation of algorithm\topological sort\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<queue>
+	<iterator>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565410355 source:e:\level-2 term-ii\algorithms\implementation of algorithm\shortest common super sequence\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

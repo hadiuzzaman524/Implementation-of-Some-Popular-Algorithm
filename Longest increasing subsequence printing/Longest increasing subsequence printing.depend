@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565551662 source:e:\level-2 term-ii\algorithms\implementation of algorithm\longest increasing subsequence printing\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

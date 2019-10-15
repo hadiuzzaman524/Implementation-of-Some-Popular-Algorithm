@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565325408 source:e:\level-2 term-ii\algorithms\implementation of algorithm\sortest common supersequence\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

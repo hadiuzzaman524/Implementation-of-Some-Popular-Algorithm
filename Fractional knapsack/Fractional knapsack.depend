@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564331443 source:e:\level-2 term-ii\algorithms\implementation of algorithm\fractional knapsack\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

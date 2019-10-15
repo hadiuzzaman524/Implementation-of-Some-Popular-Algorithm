@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1565026469 source:e:\level-2 term-ii\algorithms\implementation of algorithm\longest palindromic subsequence printing\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<algorithm>
+
