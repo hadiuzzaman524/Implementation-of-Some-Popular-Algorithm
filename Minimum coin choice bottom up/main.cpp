@@ -28,22 +28,32 @@ int minc(int coin[],int sum,int n)
 
  return target[sum];
 }
+
 int main()
 {
  int n;
- cout<< "how many coin? ";
+ cout<< "how many coins? ";
  cin>>n;
  int coin[n];
- cout<< "enter the coin: ";
+ cout<< "enter coins value:  ";
  for(int i=0; i<n; i++)
  {
      cin>>coin[i];
  }
  int sum;
- cout<< "Enter your target : ";
+ cout<< "Enter the amount: ";
  cin>>sum;
  int z=minc(coin,sum,n);
- cout<< "the minimum coin is: "<<z<<endl;
+ if(z==9999)
+ {
+
+    cout<<"number of coins:this is not possible"<<endl;
+ }
+ else
+ {
+      cout<< "number of coins: "<<z<<endl;
+ }
+
 
     return 0;
 }

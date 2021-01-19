@@ -11,23 +11,28 @@ struct node
         u = _u;
         cost = _cost;
     }
+
    bool operator < ( const node& p ) const
     {
         return cost > p.cost;      //Operator overloading
     }
 
 };
+
 void dijstkra(int n, vector<int>g[], vector<int>cost[], int source)
 {
 
     int distance[n+1];
+
     for(int i=1; i<=n; i++)
     {
         distance[i] = infinity;
     }
 
     priority_queue<node>q;
+
     q.push(node(source,0));
+
     distance[source] = 0;
 
     while(!q.empty())
@@ -65,6 +70,7 @@ int main()
         cin>>u>>v>>w;
         g[u].push_back(v);
         g[v].push_back(u);
+
         cost[u].push_back(w);
         cost[v].push_back(w);
     }

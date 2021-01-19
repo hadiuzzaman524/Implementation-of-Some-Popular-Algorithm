@@ -19,6 +19,7 @@ int partition(int ar[],int low,int high)
         if(i<j)
             swap(ar[i],ar[j]);
     }while(i<j);
+
     swap(ar[low],ar[j]);
     return j;
 

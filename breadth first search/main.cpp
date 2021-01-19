@@ -10,7 +10,6 @@ void bfs(vector<int>v[],int source,int n)
     visited[source]=true;
     q.push(source);
 
-
     cout<< "the breadth first search result is: ";
     while(!q.empty())
     {
